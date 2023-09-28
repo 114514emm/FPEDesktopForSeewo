@@ -1,0 +1,15 @@
+{
+  "name": "fpedesktopforseewo",
+  "version": "1.0.0",
+  "description": "FPED",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.2.3"
+  }
+}
